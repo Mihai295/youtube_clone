@@ -48,7 +48,7 @@ const Feed = () => {
         <Videos videos={videos} />
       </Box>
     </Stack>
-  ); //1:00:38
+  );
 };
 
 export default Feed;
